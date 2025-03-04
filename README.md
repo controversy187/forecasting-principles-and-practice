@@ -1,0 +1,2 @@
+# Forecasting: Principles and Practice
+This is a code-along to the online book [(]Forecasting: Principles and Pracitce](https://otexts.com/fpp3/index.html). The biggest change is that instead of using R, I'll be using Python. The main reason is that I would like to learn Pandas better.
